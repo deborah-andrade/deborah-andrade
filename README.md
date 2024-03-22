@@ -1,10 +1,15 @@
-### Olá, Eu sou Déborah Andade
+### Olá, Eu sou Déborah Andade!
 
-- 🔭 Pretendo trabalhar com Front-End
-- 🌱 Estudando ReactJs e Typescript
-- 😄 Pronomes: ela/dela
+- 🔭 Meu foco profissional está direcionado para o desenvolvimento Front-End, embora também esteja capacitada para atuar no Back-End.
+- 🌱 Atualmente estudando ReactJs, Typescript e Machine Learning.
+- 😄 Pronomes: ela/dela.
 
 
+##
+![Deborah's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborah-andrade&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborah-andrade&layout=compact&theme=radical)](https://github.com/deborah-andrade/github-readme-stats)
+
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,3 +27,4 @@
   <a href="https://www.linkedin.com/in/deborah-andrade-68046824a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
