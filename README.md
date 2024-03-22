@@ -1,8 +1,8 @@
-### Olá, Eu sou Déborah Andade!
+### "Hello, I'm Déborah Andade!
 
-- 🔭 Meu foco profissional está direcionado para o desenvolvimento Front-End, embora também esteja capacitada para atuar no Back-End.
-- 🌱 Atualmente estudando ReactJs, Typescript e Machine Learning.
-- 😄 Pronomes: ela/dela.
+- 🔭 My professional focus is directed towards Front-End development, although I'm also proficient in Back-End.
+- 🌱 Currently studying ReactJs, Typescript, and Machine Learning.
+- 😄 Pronouns: she/her."
 
 
 ##
