@@ -2,7 +2,6 @@
 
 - 🔭 Pretendo trabalhar com Front-End
 - 🌱 Estudando ReactJs e Typescript
-- 👯 I’m looking to collaborate on ...
 - 😄 Pronomes: ela/dela
 
 
