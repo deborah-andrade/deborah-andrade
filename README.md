@@ -2,7 +2,6 @@
 
 - 🔭 My professional focus is directed towards Front-End development, although I'm also proficient in Back-End.
 - 🌱 Currently studying ReactJs, Typescript, and Machine Learning.
-- 😄 Pronouns: she/her."
 
 
 ##
