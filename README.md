@@ -1,4 +1,4 @@
-### "Hello, I'm Déborah Andade!
+### Hello, I'm Déborah Andade!
 
 - 🔭 My professional focus is directed towards Front-End development, although I'm also proficient in Back-End.
 - 🌱 Currently studying ReactJs, Typescript, and Machine Learning.
